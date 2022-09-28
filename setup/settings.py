@@ -150,3 +150,4 @@ REST_FRAMEWORK = {
 SIMPLE_JWT = {
     'ACCESS_TOKEN_LIFETIME': datetime.timedelta(minutes=config('JWT_TIME', default=30, cast=int)),
 }
+

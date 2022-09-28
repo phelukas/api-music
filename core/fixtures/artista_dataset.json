@@ -1,0 +1,42 @@
+[
+    {
+      "model": "core.artista",
+      "pk": 1,
+      "fields": {
+        "nome": "The Beatles",
+        "quantidade_musicas": 5
+      }
+    },
+    {
+        "model": "core.artista",
+        "pk": 2,
+        "fields": {
+          "nome": "Iron Maiden",
+          "quantidade_musicas": 5
+        }
+    },
+    {
+        "model": "core.artista",
+        "pk": 3,
+        "fields": {
+          "nome": "Legiao Urbana",
+          "quantidade_musicas": 5
+        }
+    },
+    {
+        "model": "core.artista",
+        "pk": 4,
+        "fields": {
+          "nome": "CPM 22",
+          "quantidade_musicas": 5
+        }
+    },
+    {
+        "model": "core.artista",
+        "pk": 5,
+        "fields": {
+          "nome": "Pink Floyd",
+          "quantidade_musicas": 5
+        }
+    }    
+]

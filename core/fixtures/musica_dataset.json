@@ -1,0 +1,252 @@
+[
+  {
+    "model": "core.musica",
+    "pk": 1,
+    "fields": {
+      "nome": "Let It Be",
+      "artista": 1,
+      "duracao": 4.4,
+      "genero": "Rock psicodélico"
+    }
+  },
+  {
+    "model": "core.musica",
+    "pk": 2,
+    "fields": {
+      "nome": "Yesterday",
+      "artista": 1,
+      "duracao": 2.06,
+      "genero": "Rock psicodélico"
+    }
+  },
+  {
+    "model": "core.musica",
+    "pk": 3,
+    "fields": {
+      "nome": "Something",
+      "artista": 1,
+      "duracao": 3.08,
+      "genero": "Rock psicodélico"
+    }
+  },
+  {
+    "model": "core.musica",
+    "pk": 4,
+    "fields": {
+      "nome": "Hey Jude",
+      "artista": 1,
+      "duracao": 8.10,
+      "genero": "Rock psicodélico"
+    }
+  },
+  {
+    "model": "core.musica",
+    "pk": 5,
+    "fields": {
+      "nome": "Yellow Submarine",
+      "artista": 1,
+      "duracao": 2.46,
+      "genero": "Rock psicodélico"
+    }
+  },
+  {
+    "model": "core.musica",
+    "pk": 6,
+    "fields": {
+      "nome": "The Trooper",
+      "artista": 2,
+      "duracao": 4.13,
+      "genero": "heavy metal"
+    }
+  },
+  {
+    "model": "core.musica",
+    "pk": 7,
+    "fields": {
+      "nome": "Fear of the Dark",
+      "artista": 2,
+      "duracao": 7.19,
+      "genero": "heavy metal"
+    }
+  },
+  {
+    "model": "core.musica",
+    "pk": 8,
+    "fields": {
+      "nome": "Something",
+      "artista": 2,
+      "duracao": 3.08,
+      "genero": "heavy metal"
+    }
+  },
+  {
+    "model": "core.musica",
+    "pk": 9,
+    "fields": {
+      "nome": "Wasted Years",
+      "artista": 2,
+      "duracao": 5.10,
+      "genero": "heavy metal"
+    }
+  },
+  {
+    "model": "core.musica",
+    "pk": 10,
+    "fields": {
+      "nome": "Hallowed Be Thy Name",
+      "artista": 2,
+      "duracao": 7.12,
+      "genero": "heavy metal"
+    }
+  },
+  {
+    "model": "core.musica",
+    "pk": 11,
+    "fields": {
+      "nome": "Tempo Perdido",
+      "artista": 3,
+      "duracao": 5.03,
+      "genero": "rock brasileira"
+    }
+  },
+  {
+    "model": "core.musica",
+    "pk": 12,
+    "fields": {
+      "nome": "Tempo Perdido",
+      "artista": 3,
+      "duracao": 3.55,
+      "genero": "rock brasileira"
+    }
+  },
+  {
+    "model": "core.musica",
+    "pk": 13,
+    "fields": {
+      "nome": "Pais E Filhos",
+      "artista": 3,
+      "duracao": 5.09,
+      "genero": "rock brasileira"
+    }
+  },
+  {
+    "model": "core.musica",
+    "pk": 14,
+    "fields": {
+      "nome": "Faroeste Caboclo",
+      "artista": 3,
+      "duracao": 9.07,
+      "genero": "rock brasileira"
+    }
+  },
+  {
+    "model": "core.musica",
+    "pk": 15,
+    "fields": {
+      "nome": "Vento No Litoral",
+      "artista": 3,
+      "duracao": 6.08,
+      "genero": "rock brasileira"
+    }
+  },
+  {
+    "model": "core.musica",
+    "pk": 11,
+    "fields": {
+      "nome": "Um Minuto para o Fim do Mundo",
+      "artista": 4,
+      "duracao": 5.03,
+      "genero": "rock brasileira"
+    }
+  },
+  {
+    "model": "core.musica",
+    "pk": 12,
+    "fields": {
+      "nome": "Dias Atrás",
+      "artista": 4,
+      "duracao": 4.08,
+      "genero": "rock brasileira"
+    }
+  },
+  {
+    "model": "core.musica",
+    "pk": 13,
+    "fields": {
+      "nome": "Irreversível",
+      "artista": 4,
+      "duracao": 3.55,
+      "genero": "rock brasileira"
+    }
+  },
+  {
+    "model": "core.musica",
+    "pk": 14,
+    "fields": {
+      "nome": "Não Sei Viver Sem Ter Você",
+      "artista": 4,
+      "duracao": 4.0,
+      "genero": "rock brasileira"
+    }
+  },
+  {
+    "model": "core.musica",
+    "pk": 15,
+    "fields": {
+      "nome": "Regina Let's Go! (Ao Vivo)",
+      "artista": 4,
+      "duracao": 4.46,
+      "genero": "rock brasileira"
+    }
+  },
+  {
+    "model": "core.musica",
+    "pk": 16,
+    "fields": {
+      "nome": "Wish You Were Here",
+      "artista": 5,
+      "duracao": 5.35,
+      "genero": "rock"
+    }
+  },
+  {
+    "model": "core.musica",
+    "pk": 17,
+    "fields": {
+      "nome": "Comfortably Numb",
+      "artista": 5,
+      "duracao": 6.23,
+      "genero": "rock"
+    }
+  },
+  {
+    "model": "core.musica",
+    "pk": 18,
+    "fields": {
+      "nome": "Another Brick In The Wall (Part 2)",
+      "artista": 5,
+      "duracao": 3.55,
+      "genero": "rock"
+    }
+  },
+  {
+    "model": "core.musica",
+    "pk": 19,
+    "fields": {
+      "nome": "Time",
+      "artista": 5,
+      "duracao": 6.56,
+      "genero": "rock"
+    }
+  },
+  {
+    "model": "core.musica",
+    "pk": 20,
+    "fields": {
+      "nome": "Hey You",
+      "artista": 5,
+      "duracao": 4.41,
+      "genero": "rock"
+    }
+  }
+]
